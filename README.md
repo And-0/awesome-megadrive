@@ -39,7 +39,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 ## Toolchains
 
-* [Marsdev](Chttps://github.com/andwn/marsdev) - Cross platform Mega Drive / 32X toolchain
+* [Marsdev](https://github.com/andwn/marsdev) - Cross platform Mega Drive / 32X toolchain
 * [mdcc](https://github.com/osen/mdcc) - Sega Mega Drive GCC Based Toolchain
 
 ## Tools
