@@ -54,10 +54,13 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Mega Drive MIDI Interface](https://github.com/rhargreaves/mega-drive-midi-interface) - Control the Yamaha YM2612 and PSG of the Sega Mega Drive via MIDI
 * [MDTracker](https://github.com/corthax/mdtracker) - Native music tracker for the Mega Drive
 * [MDSDRV](https://github.com/superctr/MDSDRV) - A sound driver for Sega Mega Drive
+* [MML2VGM](https://github.com/kuma4649/mml2vgm) - Converts MML files to Mega Drive format
 
 ## Open-Source Games
 
+* [Tanglewood](https://github.com/BigEvilCorporation/TANGLEWOOD) - A platformer made in assembly
 * [5 Stars](https://github.com/sikthehedgehog/5stars) - A minimalistic shmup made in assembly
+* [Miniplanets](https://github.com/sikthehedgehog/miniplanets) - A unique platformer made in assembly
 * [Cave Story MD](https://github.com/andwn/cave-story-md) - A rewrite/port of Cave Story for the Mega Drive
 * [Penguin World](https://github.com/alicesim1/Penguin-World) - A game made using SGDK
 * [Lunch Break](https://github.com/GoodPraxis/lunch-break) - A game made using SGDK
