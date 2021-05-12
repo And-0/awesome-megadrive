@@ -9,6 +9,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 ## Contents
 
 * [Frameworks](#frameworks)
+* [Engines](#engines)
 * [Tutorials](#tutorials)
 * [Toolchains](#toolchains)
 * [Tools](#tools)
@@ -20,6 +21,10 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 * [SGDK](https://github.com/Stephane-D/SGDK) - Allows you to develop Mega Drive games in C
 * [SecondBasic](https://www.sbasic.net) - Allows you to develop Mega Drive games in Basic
+
+## Engines
+
+* [KAdventure](https://kakoeimon.itch.io/kadventure) - An adventure game engine using SGDK and Python
 
 ## Tutorials
 
