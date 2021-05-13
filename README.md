@@ -60,6 +60,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [MDTracker](https://github.com/corthax/mdtracker) - Native music tracker for the Mega Drive
 * [MDSDRV](https://github.com/superctr/MDSDRV) - A sound driver for Sega Mega Drive
 * [MML2VGM](https://github.com/kuma4649/mml2vgm) - Converts MML files to Mega Drive format
+* [Lusid-Dreams](https://github.com/mic-/lusid-dreams) - A SID player for the Sega 32X
 
 ## Open-Source Games
 
