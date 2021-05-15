@@ -16,6 +16,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Sound and Music](#sound-and-music)
 * [Open-Source Games](#open-source-games)
 * [Articles and Docs](#articles-and-docs)
+* [Extra hardware](#extra-hardware)
 
 ## Frameworks
 
@@ -80,3 +81,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Making a SEGA Mega Drive / Genesis game in 2019](https://www.gamasutra.com/blogs/DoctorLudos/20191019/352537/Making_a_SEGA_Mega_Drive__Genesis_game_in_2019.php) - An article about current MD development
 * [Mega Drive Development Wiki](https://wiki.megadrive.org/index.php?title=Main_Page) - A wiki about the technical aspects of the Mega Drive
 * [Sega Genesis Manual](https://archive.org/details/Genesis_Technical_Overview_v1.00_1991_Sega_US) - A technical overview of the Mega Drive by Sega
+
+## Extra hardware
+
+* [SVP chip development](https://github.com/jdesiloniz/svpdev) - Open-source hardware boards to turn retail Virtua Racing cartridges into a "devkits", an assembler for the SVP chip DSP, sources and docs.
