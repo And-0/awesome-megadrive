@@ -53,6 +53,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Beehive](https://github.com/BigEvilCorporation/Beehive) - A complete content tool for the SEGA Mega Drive
 * [MDTools](https://github.com/sikthehedgehog/mdtools) - A collection of several free tools designed to aid in development of Mega Drive homebrew
 * [Genesis Code](https://github.com/zerasul/genesis-code) - Visual Studio Code Extension For Use Easily SGDK and some other tools like Tiled.
+* [Color Mixer](https://github.com/Franticware/ColorMixerMD) - Color Mixer for SEGA Mega Drive
 
 ## Sound and Music
 
