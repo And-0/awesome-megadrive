@@ -22,6 +22,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 * [SGDK](https://github.com/Stephane-D/SGDK) - Allows you to develop Mega Drive games in C
 * [SecondBasic](https://www.sbasic.net) - Allows you to develop Mega Drive games in Basic
+* [32x DevKit](https://github.com/viciious/32XDK) - Devkit, manuals and links for 32X development
 
 ## Engines
 
@@ -40,6 +41,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](http://mrjester.hapisan.com/04_MC68/Index.html) - An extensive 68000 assembly tutorial for beginners
 * [Samples in 68000 Assembly](https://github.com/BigEvilCorporation/megadrive_samples) - Small, discreet, complete samples for the SEGA Mega Drive in 68000 assembly
 * [ArcadeTV Samples](https://github.com/ArcadeTV/megadrive-samples) - Code snippets in assembly for the Mega Drive
+* [Hugues Johnson Tutorials](https://huguesjohnson.com/programming/genesis/palettes/) - An assembly programming tutorial
 
 ### SGDK
 
@@ -57,6 +59,8 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [MDTools](https://github.com/sikthehedgehog/mdtools) - A collection of several free tools designed to aid in development of Mega Drive homebrew
 * [Genesis Code](https://github.com/zerasul/genesis-code) - Visual Studio Code Extension For Use Easily SGDK and some other tools like Tiled.
 * [Color Mixer](https://github.com/Franticware/ColorMixerMD) - Color Mixer for SEGA Mega Drive
+* [Sonic Retro Tools](https://github.com/sonicretro) - Collection of tools and disassemblies by the members of Sonic Retro
+* [Palette Batch](https://allone-works.itch.io/palette-batch) - Converts images to use certain color palettes (made for use with SGDK)
 
 ## Sound and Music
 
@@ -79,13 +83,27 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Right 2 Repair](https://github.com/theshaneobrien/Global_Game_Jam_2020) - A 2-player game made using SGDK
 * [Dr. Mario MD](https://github.com/Strugglemeat/drmariomd) - A port of Dr. Mario, made using SGDK
 * [MegaDriveSnake](https://github.com/s7jones/MegaDriveSnake) - A Snake game made using SGDK
+* [Moon Watcher Games](https://github.com/moon-watcher) - Various games and ports using SGDK and/or assembly
+* [Tetris MD](https://github.com/NeroJin/TetrisMD) - A Tetris game made using SGDK
+* [Tro-Now](https://github.com/bitbitjam/bbj2/tree/master/[MD] Tro-Now) - A Tron lightcycle game made using SGDK
+* [Retail Clerk '89](https://www.huguesjohnson.com/rc89/) - An interactive fiction game made in assembly
+* [Chris Shrigley Source Code Archive](http://shrigley.com/source_code_archive/) - Collection of code of games Chris Shrigley worked on (for educational purposes only!)
+* [BattleCity Online](https://github.com/krikzz/BattleCity-online) - A port of BattleCity with online multiplayer
 
 ## Articles and Docs
 
 * [Making a SEGA Mega Drive / Genesis game in 2019](https://www.gamasutra.com/blogs/DoctorLudos/20191019/352537/Making_a_SEGA_Mega_Drive__Genesis_game_in_2019.php) - An article about current MD development
 * [Mega Drive Development Wiki](https://wiki.megadrive.org/index.php?title=Main_Page) - A wiki about the technical aspects of the Mega Drive
 * [Sega Genesis Manual](https://archive.org/details/Genesis_Technical_Overview_v1.00_1991_Sega_US) - A technical overview of the Mega Drive by Sega
+* [Hardware Notes by Kabuto](https://docs.google.com/document/u/1/d/1ST9GbFfPnIjLT5loytFCm3pB0kWQ1Oe34DCBBV8saY8/) - SEGA Mega Drive hardware notes written by Kabuto of TiTAN during the development of Overdrive 2
+* [Pushing Polygons on the Mega Drive](https://jix.one/pushing-polygons-on-the-mega-drive/) - Overdrive 2 demo polygon renderer write-up
+* [Red Eyes demo technical details](https://docs.google.com/document/d/17pX_PS5uXSWoaS71JurC-DSKIV8ZAzlaP4o1jXbJ9CA/edit) - Details on the Red Eyes demo of Remute's music album Technoptimistic
+* [MD Development Kit Hardware](https://www.retroreversing.com/sega-mega-drive-genesis-development-kit/) - A look at the MD development kit hardware
+* [Hello, Sega Genesis](https://log.martinatkins.me/2020/01/20/hello-sega-genesis/) - A post about experimenting with MD dev (includes code examples)
+* [Sega VR Revived](https://gamehistory.org/segavr/) - Reviving the unreleased Sega VR accessory
 
 ## Extra hardware
 
 * [SVP chip development](https://github.com/jdesiloniz/svpdev) - Open-source hardware boards to turn retail Virtua Racing cartridges into a "devkits", an assembler for the SVP chip DSP, sources and docs.
+* [MegaWiFi](https://github.com/doragasu/mw) - WiFi enabled cartridge for the Mega Drive
+
