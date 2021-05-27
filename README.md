@@ -85,7 +85,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [MegaDriveSnake](https://github.com/s7jones/MegaDriveSnake) - A Snake game made using SGDK
 * [Moon Watcher Games](https://github.com/moon-watcher) - Various games and ports using SGDK and/or assembly
 * [Tetris MD](https://github.com/NeroJin/TetrisMD) - A Tetris game made using SGDK
-* [Tro-Now](https://github.com/bitbitjam/bbj2/tree/master/[MD] Tro-Now) - A Tron lightcycle game made using SGDK
+* [Tro-Now](https://github.com/bitbitjam/bbj2/tree/master/%5BMD%5D%20Tro-Now) - A Tron lightcycle game made using SGDK
 * [Retail Clerk '89](https://www.huguesjohnson.com/rc89/) - An interactive fiction game made in assembly
 * [Chris Shrigley Source Code Archive](http://shrigley.com/source_code_archive/) - Collection of code of games Chris Shrigley worked on (for educational purposes only!)
 * [BattleCity Online](https://github.com/krikzz/BattleCity-online) - A port of BattleCity with online multiplayer
