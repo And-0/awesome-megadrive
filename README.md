@@ -8,7 +8,26 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 ## Contents
 
-[TODO]
+* [Documentation and Articles](#documentation-and-articles)
+* [Programming](#programming)
+	* [Frameworks](#frameworks)
+	* [Toolchains](#toolchains)
+	* [Engines](#engines)
+	* [Snippets and Demos](#snippets-and-demos)
+	* [Tutorials](#tutorials)
+		* [Assembly](#assembly)
+		* [SGDK](#sgdk)
+* [Tools](#tools)
+* [Sound and Music](#sound-and-music)
+* [Open Source Games](#open-source-games)
+* [Reverse Engineering](#reverse-engineering)
+	* [Disassemblies](#disassemblies)
+* [Communities](#communities)
+	* [Boards](#boards)
+	* [Discords](#discords)
+* [Extra Hardware](#extra-hardware)
+* [Other Sites and Resources](#other-sites-and-resources)
+
 
 ## Documentation and Articles
 
