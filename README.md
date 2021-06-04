@@ -127,7 +127,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 ## Reverse Engineering
 
-### Dissassemblies
+### Disassemblies
 
 * [lory90 dissassemblies](https://github.com/lory90) - Dissassemblies of various Mega Drive games
 * [Vladimir Kononovich Videos](https://www.youtube.com/watch?v=aNJtvdeVllA&list=PL9T2Lv4uZytQxcYFUG9bZ0IBSFiljVV70) - Videos on reverse-engineering (in Russian)
