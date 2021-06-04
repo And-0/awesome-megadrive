@@ -74,6 +74,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Sonic Retro Tools](https://github.com/sonicretro) - Collection of tools and disassemblies by the members of Sonic Retro
 * [Palette Batch](https://allone-works.itch.io/palette-batch) - Converts images to use certain color palettes (made for use with SGDK)
 * [240p Test Suite](https://github.com/ArtemioUrbina/240pTestSuite/tree/master/240psuite/Genesis/240p) - A test suite to evaluate upscalers and related equipment
+* [TILED-Python-to-C](https://github.com/LIZARDRIVE/TILED-Python-to-C) - A Python tool to convert Tiled XML data to C for use with SGDK
 
 ## Sound and Music
 
