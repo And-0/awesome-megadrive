@@ -40,14 +40,24 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [MD Development Kit Hardware](https://www.retroreversing.com/sega-mega-drive-genesis-development-kit/) - A look at the MD development kit hardware
 * [Hello, Sega Genesis](https://log.martinatkins.me/2020/01/20/hello-sega-genesis/) - A post about experimenting with MD dev (includes code examples)
 * [Sega VR Revived](https://gamehistory.org/segavr/) - Reviving the unreleased Sega VR accessory
+* [Porting Fantasy Zone to the Mega Drive](https://ameblo.jp/arcade-cabinet/entry-12659552849.html) - Porting Fantasy Zone to the Mega Drive (in Japanese)
+* [M2 Interview on 3D Sonic the Hedgehog](https://web.archive.org/web/20170806200341/http://blogs.sega.com/2013/12/03/sega-3d-classics-%E2%80%93-3d-sonic-the-hedgehog-interview-with-developer-m2/) - Interview with M2 about developing the Sega 3D Classics version of Sonic
+* [Sega Japan Sound Documents](https://hiddenpalace.org/News/Sega_of_Japan_Sound_Documents_and_Source_Code) - Technical documents on the YM2612 and the Mega Drive sound drivers
+* [Digging for Treasure in Aladdin's Source Code](https://gamehistory.org/aladdin-source-code/) - An article exploring the source code of Aladdin
+* [An authoritative reference on the YM2612](http://gendev.spritesmind.net/forum/viewtopic.php?f=24&t=386) - A whole pile of Japanese documentation on the YM2612
+* [Exodus MD Tech Docs](http://techdocs.exodusemulator.com/Console/SegaMegaDrive/index.html) - Technical details important for emulation and development
+* [The Sound Drivers of Sonic the Hedgehog](https://clownacy.wordpress.com/2021/04/18/the-sound-drivers-of-sonic-the-hedgehog/) - An article about the sound drivers used in the classic Sonic games
+* [Sonic Megamix is not Sonic CD!](https://hcstealth.tumblr.com/post/13505293669/sonic-megamix-is-not-sonic-cd) - An article about what Sonic Megamix is (and isn't)
 
 ## Programming
 
-### Frameworks
+### Frameworks and Compilers
 
 * [SGDK](https://github.com/Stephane-D/SGDK) - Allows you to develop Mega Drive games in C
 * [SecondBasic](https://www.sbasic.net) - Allows you to develop Mega Drive games in Basic
 * [32x DevKit](https://github.com/viciious/32XDK) - Devkit, manuals and links for 32X development
+* [NEXTBasic](https://alcatstudio.blogspot.com/p/nextbasic-compiler.html) - Page about the NEXTBasic compiler
+* [BasiEgaXorz](http://devster.monkeeh.com/sega/basiegaxorz/) - The Sega Genesis Tiny BASIC Compiler
 
 ### Toolchains
 
@@ -94,6 +104,10 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Palette Batch](https://allone-works.itch.io/palette-batch) - Converts images to use certain color palettes (made for use with SGDK)
 * [240p Test Suite](https://github.com/ArtemioUrbina/240pTestSuite/tree/master/240psuite/Genesis/240p) - A test suite to evaluate upscalers and related equipment
 * [TILED-Python-to-C](https://github.com/LIZARDRIVE/TILED-Python-to-C) - A Python tool to convert Tiled XML data to C for use with SGDK
+* [Retro Graphics Toolkit](https://segaretro.org/Retro_Graphics_Toolkit) - A graphics tool to convert images for use on retro systems
+* [TUME](https://segaretro.org/TUME) - An old map editor for 8bit and 16bit games
+* [Aseprite Mega Drive Digitizer](http://gendev.spritesmind.net/forum/viewtopic.php?t=3112) - Display images from Aseprite on your CRT using the Mega Drive
+* [MCD-Verificator](https://github.com/krikzz/MEGA-PRO/tree/master/mcd-verificator) - A test program for CD core accuracy verification
 
 ## Sound and Music
 
@@ -106,12 +120,17 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Lusid-Dreams](https://github.com/mic-/lusid-dreams) - A SID player for the Sega 32X
 * [VGM Music Maker Primer](https://megacatstudios.com/blogs/retro-development/creating-music-and-sound-for-the-sega-genesis-mega-drive-a-primer-for-using-the-vgm-music-maker) - A primer on creating music for the Mega Drive
 * [DefleMask Instrument Tutorial](https://www.youtube.com/watch?v=wS8edjurjDw) - A video guide to making FM instruments for the Sega Mega Drive
+* [GENNY VST](https://gendev.spritesmind.net/forum/viewtopic.php?f=24&t=1062) - A VST for DAWs emulating Mega Drive instruments
+* [Chipsynth MD emulation (Video)](https://www.youtube.com/watch?v=VLxTHYGLKY0) - Video about rigs created for chipsynth MD's emulation
 
 ## Open-Source Games
 
 * [Tanglewood](https://github.com/BigEvilCorporation/TANGLEWOOD) - A platformer made in assembly
-* [5 Stars](https://github.com/sikthehedgehog/5stars) - A minimalistic shmup made in assembly
-* [Miniplanets](https://github.com/sikthehedgehog/miniplanets) - A unique platformer made in assembly
+* [5 Stars](https://github.com/sikthehedgehog/5stars) - A minimalistic shmup made in assembly by SikTheHedgehog
+* [Miniplanets](https://github.com/sikthehedgehog/miniplanets) - A unique platformer made in assembly by SikTheHedgehog
+* [Project MD](https://github.com/sikthehedgehog/projectmd) - Another game by SikTheHedgehog
+* [Dragon's Castle](https://github.com/sikthehedgehog/dragon) - A platformer made in assembly...by SikTheHedgehog
+* [Mega Grappler X](https://github.com/sikthehedgehog/meka) - And another game by SikTheHedgehog!
 * [Cave Story MD](https://github.com/andwn/cave-story-md) - A rewrite/port of Cave Story for the Mega Drive
 * [Penguin World](https://github.com/alicesim1/Penguin-World) - A game made using SGDK
 * [Lunch Break](https://github.com/GoodPraxis/lunch-break) - A game made using SGDK
@@ -124,6 +143,14 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Retail Clerk '89](https://www.huguesjohnson.com/rc89/) - An interactive fiction game made in assembly
 * [Chris Shrigley Source Code Archive](http://shrigley.com/source_code_archive/) - Collection of code of games Chris Shrigley worked on (for educational purposes only!)
 * [BattleCity Online](https://github.com/krikzz/BattleCity-online) - A port of BattleCity with online multiplayer
+* [Fatal Smarties](https://v3.globalgamejam.org/2016/games/fatal-smarties) - An entry for Global Game Jam 2016
+* [Pingouin Bleu](https://gendev.spritesmind.net/forum/viewtopic.php?t=1952) - A horizontal shmup written with SGDK
+* [Downforce](https://gamejolt.com/games/downforce/162163) - A futuristic racer written in C
+* [Ramless Pong](http://www.tmeeco.eu/BitShit/PONG!RAM.ASM) - Source code of Pong that does not use RAM, only CPU regs
+* [xRick](https://pdroms.de/files/sega32x/xrick-sega-32x) - A clone of Rick Dangerous for the 32X
+* [Wolf32X](https://web.archive.org/web/20210310175253/https://download1648.mediafire.com/x8gsragmh8og/5rpabuadg9f6i8d/Wolf32X-20140712.7z) - Source code for Wolf32X
+* [Uwol - Quest For Money](https://shiru.untergrund.net/files/src/uwol_quest_for_money_source_code.zip) - Source code for Uwol
+* [Doom](https://github.com/krikzz/doom-68k) - Proof of concept Doom port for Mega Drive
 
 ## Reverse Engineering
 
@@ -132,6 +159,8 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [lory90 dissassemblies](https://github.com/lory90) - Dissassemblies of various Mega Drive games
 * [Vladimir Kononovich Videos](https://www.youtube.com/watch?v=aNJtvdeVllA&list=PL9T2Lv4uZytQxcYFUG9bZ0IBSFiljVV70) - Videos on reverse-engineering (in Russian)
 * [Vladimir Kononovich Tools](https://github.com/lab313ru) - Various tools for Mega Drive reverse-engineering
+* [Shining Force Central](https://github.com/ShiningForceCentral) - A github with projects relating to the Shining Force games
+* [TMSS Disassembly](http://www.tmeeco.eu/SMD/TMSSCODE.ASM) - A disassembly of the TradeMark Security System
 
 ## Communities
 
@@ -160,3 +189,10 @@ Feel free to submit a pull request if you have anything to add to the list.
  * [Romhacking.net MCD](https://www.romhacking.net/?page=documents&category=&platform=29) - Resources for Mega CD development
  * [Romhacking.net 32X](https://www.romhacking.net/?page=documents&category=&platform=31) - Resources for 32X development
  * [SMS Power!](https://www.smspower.org/) - Resources on Master System development
+ * [Super Splash Wave](https://www.youtube.com/playlist?list=PLoxs7x1Yn9F9G1Xz4pmti4b1NZLNI8SGn) - Youtube videos by strafefox covering the development of various games, including Mega Drive games
+ * [Dithering on the Sega Genesis with Composite Video](https://www.youtube.com/watch?v=x0weL5XDpPs) - Examination of dithering and composite video on the Sega Genesis
+ * [Sega Genesis Low Resolution Aspect Ratio](https://www.youtube.com/watch?v=TY8HAjJfSO0) - Examination of the Sega Genesis/Mega Drive output of low resolution games (256x224) to a CRT
+ * [flamewing Github](https://github.com/flamewing?tab=repositories) - A github with various Mega Drive projects
+ * [GenesisFan64 Github](https://github.com/GenesisFan64?tab=repositories) - A github with various Mega Drive and 32X projects
+ * [Mega Cat Studios Blog](https://megacatstudios.com/blogs/retro-development/tagged/sega-games) - A blog on Mega Drive development by Mega Cat Studios
+ * [2020 Games on Dreamcast and Mega Drive](http://segabits.com/forums/index.php?topic=3890.0) - A list of games made in 2020 for the Dreamcast and Mega Drive
