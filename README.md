@@ -61,6 +61,8 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [BasiEgaXorz](http://devster.monkeeh.com/sega/basiegaxorz/) - The Sega Genesis Tiny BASIC Compiler
 * [GINCS Studio](https://gcup.ru/load/constructors/gincs_studio/2-1-0-407) - A tool to create text adventures and visual novels for the Mega Drive (Page in Russian)
 * [MEGADEV](https://github.com/drojaazu/megadev) - A Sega Mega CD development framework
+* [choice4genesis](https://github.com/haroldo-ok/choice4genesis) - A ChoiceScript clone that generates Sega Genesis ROMs; it can be used for visual novels or simple multimedia presentations
+
 
 ### Toolchains
 
