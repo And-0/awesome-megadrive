@@ -48,7 +48,8 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Exodus MD Tech Docs](http://techdocs.exodusemulator.com/Console/SegaMegaDrive/index.html) - Technical details important for emulation and development
 * [The Sound Drivers of Sonic the Hedgehog](https://clownacy.wordpress.com/2021/04/18/the-sound-drivers-of-sonic-the-hedgehog/) - An article about the sound drivers used in the classic Sonic games
 * [Sonic Megamix is not Sonic CD!](https://hcstealth.tumblr.com/post/13505293669/sonic-megamix-is-not-sonic-cd) - An article about what Sonic Megamix is (and isn't)
-* [How I built my own Sega Mega Drive hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/) - An article about building a devkit, hardware and all
+* [How I built my own Sega Mega Drive hardware dev kit from scratch](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/) - An article about building a devkit, hardware and all.
+* [16 Bits Homebrew Development Book (Spanish) (Amazon)](https://amzn.eu/d/8CSfbY8) -  Mega Drive Development Book using SGDK (In Spanish).
 
 ## Programming
 
