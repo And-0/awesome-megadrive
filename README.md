@@ -129,6 +129,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [DefleMask Instrument Tutorial](https://www.youtube.com/watch?v=wS8edjurjDw) - A video guide to making FM instruments for the Sega Mega Drive
 * [GENNY VST](https://gendev.spritesmind.net/forum/viewtopic.php?f=24&t=1062) - A VST for DAWs emulating Mega Drive instruments
 * [Chipsynth MD emulation (Video)](https://www.youtube.com/watch?v=VLxTHYGLKY0) - Video about rigs created for chipsynth MD's emulation
+* [Furnace](https://github.com/tildearrow/furnace) - A multi-system chiptune tracker compatible with DefleMask modules
 
 ## Open-Source Games
 
