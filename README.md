@@ -60,6 +60,10 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [32x DevKit](https://github.com/viciious/32XDK) - Devkit, manuals and links for 32X development
 * [NEXTBasic](https://alcatstudio.blogspot.com/p/nextbasic-compiler.html) - Page about the NEXTBasic compiler
 * [BasiEgaXorz](http://devster.monkeeh.com/sega/basiegaxorz/) - The Sega Genesis Tiny BASIC Compiler
+* [BlastForth](https://github.com/WildChild83/BlastForth) - Development kit for the Mega Drive using the Forth programming language
+* [mdk](https://github.com/Mikejmoffitt/mdk) - Barebones megadrive development setup.
+* [pysega](https://github.com/hansbonini/pysega) - Sega Genesis / Mega Drive development kit (SDK) written in Python
+* [mddev](https://github.com/tapule/mddev) - A small Megadrive devkit with learning purposes.
 * [GINCS Studio](https://gcup.ru/load/constructors/gincs_studio/2-1-0-407) - A tool to create text adventures and visual novels for the Mega Drive (Page in Russian)
 * [MEGADEV](https://github.com/drojaazu/megadev) - A Sega Mega CD development framework
 * [choice4genesis](https://github.com/haroldo-ok/choice4genesis) - A ChoiceScript clone that generates Sega Genesis ROMs; it can be used for visual novels or simple multimedia presentations
