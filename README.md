@@ -134,6 +134,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [GENNY VST](https://gendev.spritesmind.net/forum/viewtopic.php?f=24&t=1062) - A VST for DAWs emulating Mega Drive instruments
 * [Chipsynth MD emulation (Video)](https://www.youtube.com/watch?v=VLxTHYGLKY0) - Video about rigs created for chipsynth MD's emulation
 * [Furnace](https://github.com/tildearrow/furnace) - A multi-system chiptune tracker compatible with DefleMask modules
+* [Pseym](https://github.com/M374LX/pseym) - A retro-style YM2612 instrument editor
 
 ## Open-Source Games
 
