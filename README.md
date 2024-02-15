@@ -163,7 +163,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Wolf32X](https://web.archive.org/web/20210310175253/https://download1648.mediafire.com/x8gsragmh8og/5rpabuadg9f6i8d/Wolf32X-20140712.7z) - Source code for Wolf32X
 * [Uwol - Quest For Money](https://shiru.untergrund.net/files/src/uwol_quest_for_money_source_code.zip) - Source code for Uwol
 * [Doom](https://github.com/krikzz/doom-68k) - Proof of concept Doom port for Mega Drive
-* [Crazy Driver](http://www.mediafire.com/download/0a5xx13m7e7xaoa/CrazyDriver-Genesis-1.1.zip) - A simplistic top-view driving game written in C
+* [Crazy Driver](https://gendev.spritesmind.net/forum/viewtopic.php?f=8&t=1528) - A simplistic top-view driving game written in C
 
 ## Reverse Engineering
 
