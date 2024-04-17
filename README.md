@@ -10,7 +10,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 * [Documentation and Articles](#documentation-and-articles)
 * [Programming](#programming)
-	* [Frameworks](#frameworks)
+	* [Frameworks](#frameworks-and-compilers)
 	* [Toolchains](#toolchains)
 	* [Engines](#engines)
 	* [Snippets and Demos](#snippets-and-demos)
@@ -57,6 +57,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 * [SGDK](https://github.com/Stephane-D/SGDK) - Allows you to develop Mega Drive games in C
 * [SecondBasic](https://www.sbasic.net) - Allows you to develop Mega Drive games in Basic
+* [Java Grinder](https://www.mikekohn.net/micro/sega_genesis_java.php) - Allows you to develop Mega Drive games in Java
 * [32x DevKit](https://github.com/viciious/32XDK) - Devkit, manuals and links for 32X development
 * [NEXTBasic](https://alcatstudio.blogspot.com/p/nextbasic-compiler.html) - Page about the NEXTBasic compiler
 * [BasiEgaXorz](http://devster.monkeeh.com/sega/basiegaxorz/) - The Sega Genesis Tiny BASIC Compiler
@@ -67,6 +68,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [GINCS Studio](https://gcup.ru/load/constructors/gincs_studio/2-1-0-407) - A tool to create text adventures and visual novels for the Mega Drive (Page in Russian)
 * [MEGADEV](https://github.com/drojaazu/megadev) - A Sega Mega CD development framework
 * [choice4genesis](https://github.com/haroldo-ok/choice4genesis) - A ChoiceScript clone that generates Sega Genesis ROMs; it can be used for visual novels or simple multimedia presentations
+
 
 
 ### Toolchains
@@ -165,6 +167,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Uwol - Quest For Money](https://shiru.untergrund.net/files/src/uwol_quest_for_money_source_code.zip) - Source code for Uwol
 * [Doom](https://github.com/krikzz/doom-68k) - Proof of concept Doom port for Mega Drive
 * [Crazy Driver](https://gendev.spritesmind.net/forum/viewtopic.php?f=8&t=1528) - A simplistic top-view driving game written in C
+* [Casanova: Love mission](https://github.com/SegaMark7/Casanova-love-mission)
 
 ## Reverse Engineering
 
