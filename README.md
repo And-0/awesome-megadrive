@@ -133,7 +133,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Lusid-Dreams](https://github.com/mic-/lusid-dreams) - A SID player for the Sega 32X
 * [VGM Music Maker Primer](https://megacatstudios.com/blogs/retro-development/creating-music-and-sound-for-the-sega-genesis-mega-drive-a-primer-for-using-the-vgm-music-maker) - A primer on creating music for the Mega Drive
 * [DefleMask Instrument Tutorial](https://www.youtube.com/watch?v=wS8edjurjDw) - A video guide to making FM instruments for the Sega Mega Drive
-* [GENNY VST](https://gendev.spritesmind.net/forum/viewtopic.php?f=24&t=1062) - A VST for DAWs emulating Mega Drive instruments
+* [GENNY VST](https://superjoebob.wordpress.com/2023/05/30/genny-1-5-beta-genny-x/) - A VST for DAWs emulating Mega Drive instruments
 * [Chipsynth MD emulation (Video)](https://www.youtube.com/watch?v=VLxTHYGLKY0) - Video about rigs created for chipsynth MD's emulation
 * [Furnace](https://github.com/tildearrow/furnace) - A multi-system chiptune tracker compatible with DefleMask modules
 * [Pseym](https://github.com/M374LX/pseym) - A retro-style YM2612 instrument editor
