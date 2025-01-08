@@ -106,6 +106,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 
 * [Ohsat Games](https://www.ohsat.com/tutorial/) - Various full project and one-off tutorials for SGDK
 * [Danibus](https://danibus.wordpress.com) - Various SGDK tutorials in Spanish and English
+* [SteveProXNA](https://steveproxna.blogspot.com/search/label/SGDK) - SGDK Programming Setup and Sample
 
 
 ## Tools
