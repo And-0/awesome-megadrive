@@ -90,6 +90,9 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [ArcadeTV Samples](https://github.com/ArcadeTV/megadrive-samples) - Code snippets in assembly for the Mega Drive
 * [Hijacking the S&K Lock-on Cart](https://github.com/BigEvilCorporation/s3k_hijack) - How to hijack the Sonic & Knuckles lock-on cart
 * [Writing ROMs using Rust](https://github.com/ricky26/rust-mega-drive) - A proof-of-concept project using Rust to write Mega Drive ROMs
+* [Mega CD Raycast Demo](https://github.com/matteusbeus/RaycastDemo) - Fantom Bitmap 512 colour ray cast demo for the Sega Mega CD
+* [Dci3Viewer](https://github.com/matteusbeus/Dci3Viewer) - FantomBitmap 512 Colour Image Viewer for Sega Mega CD
+* [Mod Player for the Sega Mega CD](https://github.com/matteusbeus/ModPlayer) - An example of how the Sega Mega CD can be used to play MOD files
 
 ### Tutorials
 
