@@ -174,6 +174,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Doom](https://github.com/krikzz/doom-68k) - Proof of concept Doom port for Mega Drive
 * [Crazy Driver](https://gendev.spritesmind.net/forum/viewtopic.php?f=8&t=1528) - A simplistic top-view driving game written in C
 * [Casanova: Love mission](https://github.com/SegaMark7/Casanova-love-mission)
+* [Alex vs Bus: The Race](https://github.com/M374LX/alexvsbus-md) - A platform runner game in which Alex needs to catch the bus on time
 
 ## Reverse Engineering
 
