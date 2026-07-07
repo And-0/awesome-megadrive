@@ -112,6 +112,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Ohsat Games](https://www.ohsat.com/tutorial/) - Various full project and one-off tutorials for SGDK
 * [Danibus](https://danibus.wordpress.com) - Various SGDK tutorials in Spanish and English
 * [SteveProXNA](https://steveproxna.blogspot.com/search/label/SGDK) - SGDK Programming Setup and Sample
+* [Sega Mega Drive SGDK Development Manual](https://valenzuelagustavo.itch.io/sgdk-manual) - "A free, community-written manual covering SGDK development(English and Spanish)"
 
 
 ## Tools
@@ -221,3 +222,4 @@ Feel free to submit a pull request if you have anything to add to the list.
  * [GenesisFan64 Github](https://github.com/GenesisFan64?tab=repositories) - A github with various Mega Drive and 32X projects
  * [Mega Cat Studios Blog](https://megacatstudios.com/blogs/retro-development/tagged/sega-games) - A blog on Mega Drive development by Mega Cat Studios
  * [2020 Games on Dreamcast and Mega Drive](http://segabits.com/forums/index.php?topic=3890.0) - A list of games made in 2020 for the Dreamcast and Mega Drive
+
