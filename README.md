@@ -95,6 +95,7 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [Mega CD Raycast Demo](https://github.com/matteusbeus/RaycastDemo) - Fantom Bitmap 512 colour ray cast demo for the Sega Mega CD
 * [Dci3Viewer](https://github.com/matteusbeus/Dci3Viewer) - FantomBitmap 512 Colour Image Viewer for Sega Mega CD
 * [Mod Player for the Sega Mega CD](https://github.com/matteusbeus/ModPlayer) - An example of how the Sega Mega CD can be used to play MOD files
+* [Legend of Elya (Genesis)](https://github.com/Scottcjn/legend-of-elya-genesis) - A proof-of-concept running an integer-only ternary transformer (mixture-of-experts) LLM on the 68000, using memory-mapped cartridge ROM for zero-cost expert routing
 
 ### Tutorials
 
