@@ -52,6 +52,10 @@ Feel free to submit a pull request if you have anything to add to the list.
 * [16 Bits Homebrew Development Book (English) (Amazon)](https://www.amazon.com/dp/B0CW4TH2NJ) -  Mega Drive Development Book using SGDK (English Edition).
 * [Desarrollo Homebrew para 16 Bits (Spanish) (Amazon)](https://amzn.eu/d/8CSfbY8) -  Mega Drive Development Book using SGDK (Spanish Edition).
 
+## Books
+
+* [Mega Drive Game Development for Beginners](https://andrej-zone.com/books/mega-drive-game-development-for-beginners/)
+
 ## Programming
 
 ### Frameworks and Compilers
